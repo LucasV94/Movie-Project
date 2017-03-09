@@ -9,7 +9,7 @@ Built an app, optimized for tablets, to help users discover popular and highly r
 ##Instructions
 
 Add your API Key from [The Movie DB](https://www.themoviedb.org/)
-to MainActivityFragment.java line 70 `String myKey=`
+to MainActivityFragment.java line 70 `String myKey= "INSERT_YOUR_API_KEY;`
 
 ##Screenshots
 
