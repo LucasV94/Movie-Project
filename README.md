@@ -13,5 +13,5 @@ to MainActivityFragment.java line 70 `String myKey= "INSERT_YOUR_API_KEY;`
 
 ##Screenshots
 
-![Main Activity](https://raw.github.com/lucasv94/Movie-Project/master/screenshots/main_activity.png)
-![Detail Activity](https://raw.github.com/lucasv94/Movie-Project/master/screenshots/detail_activity.png)
+![Main Activity](https://raw.github.com/lucasv94/Movie-Project/tree/master/screenshots/main_activity.png)
+![Detail Activity](https://raw.github.com/lucasv94/Movie-Project/tree/master/screenshots/detail_activity.png)
